@@ -159,15 +159,3 @@ Inventário completo com URLs e volumes: [`FONTES_DE_DADOS.md`](FONTES_DE_DADOS.
   comparado por UF.
 - Série curta do cadastro (nove meses de política em implantação).
 - Sem renda e saneamento não se separa adesão de capacidade administrativa.
-
-## Divisão do grupo (FIAP GS 2026.2)
-
-| Frente | Responsável | Entregável |
-|---|---|---|
-| Proposta executiva (PDF) e pitch | Gustavo Moreschi + Annyk | documento e apresentação |
-| Carregamento, manipulação e visualização (Pandas/NumPy/Matplotlib) | a definir | notebook e ETL |
-| Limpeza e normalização | Gustavo Hokumura | seção 2 do notebook |
-| **Estatística descritiva** | **Eduardo Ferro** | seção 3 do notebook |
-| Técnica — testes de hipóteses | Gustavo Hokumura | seção 4 |
-| Técnica — probabilidade | a definir | seção 5 |
-| Técnica — ML (scikit-learn) | Annyk + a definir | seção 7 |
