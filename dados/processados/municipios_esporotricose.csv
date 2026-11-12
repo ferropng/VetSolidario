@@ -1,0 +1,114 @@
+codigo_ibge,municipio,uf,total,gatos
+130190,Itacoatiara,AM,1,1
+130260,Manaus,AM,145,145
+150140,Belém,PA,214,213
+150553,Parauapebas,PA,1,1
+240140,Baía Formosa,RN,16,16
+240260,Ceará-Mirim,RN,1,1
+240325,Parnamirim,RN,54,52
+240360,Extremoz,RN,102,101
+240810,Natal,RN,768,749
+241200,São Gonçalo do Amarante,RN,10,10
+261160,Recife,PE,87,83
+290570,Camaçari,BA,4,4
+291920,Lauro de Freitas,BA,108,106
+292740,Salvador,BA,2197,2162
+292920,São Francisco do Conde,BA,57,56
+293070,Simões Filho,BA,19,19
+313670,Juiz de Fora,MG,52,52
+316990,Ubá,MG,10,10
+330010,Angra dos Reis,RJ,444,417
+330020,Araruama,RJ,7,7
+330030,Barra do Piraí,RJ,1,1
+330040,Barra Mansa,RJ,94,88
+330045,Belford Roxo,RJ,20,17
+330070,Cabo Frio,RJ,56,56
+330080,Cachoeiras de Macacu,RJ,9,9
+330100,Campos dos Goytacazes,RJ,189,188
+330115,Cardoso Moreira,RJ,1,1
+330130,Casimiro de Abreu,RJ,1,1
+330170,Duque de Caxias,RJ,3,3
+330180,Engenheiro Paulo de Frontin,RJ,11,11
+330185,Guapimirim,RJ,33,32
+330190,Itaboraí,RJ,12,12
+330220,Itaperuna,RJ,37,34
+330225,Itatiaia,RJ,136,133
+330230,Laje do Muriaé,RJ,17,17
+330240,Macaé,RJ,113,111
+330270,Maricá,RJ,170,165
+330330,Niterói,RJ,204,200
+330340,Nova Friburgo,RJ,148,146
+330360,Paracambi,RJ,43,42
+330370,Paraíba do Sul,RJ,29,29
+330380,Paraty,RJ,2,2
+330385,Paty do Alferes,RJ,4,4
+330390,Petrópolis,RJ,4,4
+330395,Pinheiral,RJ,31,31
+330411,Porto Real,RJ,68,67
+330412,Quatis,RJ,5,5
+330415,Quissamã,RJ,9,9
+330420,Resende,RJ,336,330
+330430,Rio Bonito,RJ,5,5
+330452,Rio das Ostras,RJ,317,306
+330455,Rio de Janeiro,RJ,6436,6007
+330510,São João de Meriti,RJ,56,56
+330555,Seropédica,RJ,16,10
+330560,Silva Jardim,RJ,6,6
+330575,Tanguá,RJ,1,1
+330580,Teresópolis,RJ,8,8
+330610,Valença,RJ,1,1
+330620,Vassouras,RJ,431,391
+330630,Volta Redonda,RJ,800,796
+350540,Barra do Turvo,SP,1,1
+350920,Cajamar,SP,36,36
+350950,Campinas,SP,2,2
+351050,Caraguatatuba,SP,98,95
+351500,Embu das Artes,SP,4,4
+351640,Franco da Rocha,SP,1,1
+352040,Ilhabela,SP,96,92
+354330,Ribeirão Pires,SP,1,1
+354780,Santo André,SP,5,5
+354870,São Bernardo do Campo,SP,1,1
+355030,São Paulo,SP,2522,2462
+355070,São Sebastião,SP,14,13
+355220,Sorocaba,SP,1,1
+355250,Suzano,SP,1,1
+355280,Taboão da Serra,SP,10,10
+355540,Ubatuba,SP,16,16
+410180,Araucária,PR,88,88
+410230,Balsa Nova,PR,4,4
+410400,Campina Grande do Sul,PR,14,14
+410420,Campo Largo,PR,225,220
+410425,Campo Magro,PR,1,1
+410430,Campo Mourão,PR,45,43
+410480,Cascavel,PR,4,4
+410490,Castro,PR,1,1
+410580,Colombo,PR,67,67
+410620,Contenda,PR,3,3
+410640,Cornélio Procópio,PR,4,4
+410690,Curitiba,PR,879,874
+410765,Fazenda Rio Grande,PR,2,2
+410830,Foz do Iguaçu,PR,351,344
+410880,Guaíra,PR,16,16
+410960,Guaratuba,PR,10,10
+411070,Irati,PR,1,1
+411160,Ivatuba,PR,1,1
+411450,Manoel Ribas,PR,1,1
+411570,Matinhos,PR,1,1
+411620,Morretes,PR,2,2
+411790,Palotina,PR,4,4
+411820,Paranaguá,PR,1,1
+411915,Pinhais,PR,102,102
+411950,Piraquara,PR,352,346
+411960,Pitanga,PR,1,1
+411990,Ponta Grossa,PR,13,13
+411995,Pontal do Paraná,PR,5,5
+412210,Rio Bom,PR,1,1
+412390,Santa Mariana,PR,3,3
+412405,Santa Terezinha de Itaipu,PR,1,1
+412550,São José dos Pinhais,PR,310,305
+431033,Imbé,RS,74,74
+431600,Rolante,RS,2,2
+432000,Sapucaia do Sul,RS,317,311
+432160,Tramandaí,RS,1,1
+500320,Corumbá,MS,681,652

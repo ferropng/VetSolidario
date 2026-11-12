@@ -1,0 +1,16 @@
+indicador,valor
+animais_cadastrados,928665
+municipios_com_cadastro,5397
+populacao_coberta,213374956
+cobertura_por_100k,435.2
+pct_gato,36.7
+pct_filhote,10.8
+idade_mediana,3.0
+primeiro_cadastro,2025-04-15
+ultimo_cadastro,2025-12-02
+municipios_sem_cadastro,174
+domicilios_com_cao,33754348
+domicilios_com_gato,14143568
+cao_por_100_domicilios,1.74
+gato_por_100_domicilios,2.41
+ano_pnad,2019

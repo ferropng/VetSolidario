@@ -1,0 +1,25 @@
+faixa_etaria,especie,sexo,cadastros
+1 a 2 anos,Cão,Fêmea,77343
+1 a 2 anos,Cão,Macho,75519
+1 a 2 anos,Gato,Fêmea,59599
+1 a 2 anos,Gato,Macho,58883
+10 anos ou mais,Cão,Fêmea,39381
+10 anos ou mais,Cão,Macho,33133
+10 anos ou mais,Gato,Fêmea,15674
+10 anos ou mais,Gato,Macho,10078
+3 a 5 anos,Cão,Fêmea,91710
+3 a 5 anos,Cão,Macho,84713
+3 a 5 anos,Gato,Fêmea,52049
+3 a 5 anos,Gato,Macho,43695
+6 a 9 anos,Cão,Fêmea,70382
+6 a 9 anos,Cão,Macho,61666
+6 a 9 anos,Gato,Fêmea,31666
+6 a 9 anos,Gato,Macho,22761
+Ignorado,Cão,Fêmea,148
+Ignorado,Cão,Macho,171
+Ignorado,Gato,Fêmea,77
+Ignorado,Gato,Macho,67
+Menos de 1 ano,Cão,Fêmea,25759
+Menos de 1 ano,Cão,Macho,27533
+Menos de 1 ano,Gato,Fêmea,23641
+Menos de 1 ano,Gato,Macho,23017

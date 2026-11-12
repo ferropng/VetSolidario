@@ -1,0 +1,19 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# microdados brutos (reproduzíveis via src/extrair.py)
+dados/brutos/*
+!dados/brutos/.gitkeep
+
+# saídas grandes
+dados/processados/atendimentos_antirabicos.parquet
+dados/processados/esporotricose.parquet
+
+# notebooks: manter os executados
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
+Thumbs.db
